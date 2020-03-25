@@ -19,6 +19,8 @@ The project is broken down into multiple steps:
 * Train the image classifier on your dataset
 * Use the trained classifier to predict image content
 
+For more extensive documentation, see CH_ImageClassifierProject notebook
+
 Image library should be extracted to a base folder named 'flowers'
 
 Project completed as part of AI Programming with Python coursework
